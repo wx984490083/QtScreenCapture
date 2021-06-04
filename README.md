@@ -20,3 +20,9 @@ QtCreator + vs2019 + Qt5.12.10
 auto image = ScreenCapture::capture();
 // coding...
 ```
+
+##更好的截图体验
+通常截图软件还会使用热键，例如 QQ 的 Ctrl + Alt + A 。
+如果需要在 Qt 中使用全局热键，这儿有一个优秀的库：
+https://github.com/Skycoder42/QHotkey
+本人亲测，非常好用~
