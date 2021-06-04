@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/capture">
+        <file>cancel.svg</file>
+        <file>save.svg</file>
+    </qresource>
+</RCC>
